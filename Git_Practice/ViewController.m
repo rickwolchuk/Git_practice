@@ -9,6 +9,8 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+@property (strong, nonatomic) IBOutlet UIButton *PanicButton;
+@property (strong, nonatomic) IBOutlet UIButton *KeepCalm;
 
 @end
 
